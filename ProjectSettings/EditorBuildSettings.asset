@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StoryScene.unity
     guid: 8a3fb45836ce1bf409466098305c8ce1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DeathScene.unity
     guid: d20da0c6c3d7c3b4381c8fe1cf3fa2a1
+  - enabled: 1
+    path: Assets/Scenes/FullCameraImage.unity
+    guid: a4e00d6cf1c07994c8753da04e805d19
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
